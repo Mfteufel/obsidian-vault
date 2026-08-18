@@ -1,0 +1,98 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiNotebook",
+      "LiGoal",
+      "LiBook",
+      "LiArchive",
+      "LiCoffee"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Aplicaciones Moviles/TP/TP Sistema de Subastas.md": "LiBadgeInfo",
+  "Aplicaciones Moviles": {
+    "iconName": "LiSmartphone",
+    "iconColor": "#9f01f4"
+  },
+  "Ingenieria de Datos 1": {
+    "iconName": "LiDatabase",
+    "iconColor": "#f90101"
+  },
+  "Ingenieria de Datos 1/Conceptos Clave/Tipos de Arboles": {
+    "iconName": "LiTreePine",
+    "iconColor": "#f40101"
+  },
+  "Ingenieria de Datos 1/Clases": {
+    "iconName": "LiBook",
+    "iconColor": "#fa0000"
+  },
+  "Programacion 1": {
+    "iconName": "LiCode",
+    "iconColor": "#3cc866"
+  },
+  "Programacion 1/Clases": {
+    "iconName": "LiBook",
+    "iconColor": "#30d998"
+  },
+  "Programacion 1/Conceptos clave": {
+    "iconName": "LiBrain",
+    "iconColor": "#05f599"
+  },
+  "Ingenieria de Datos 1/SQL": {
+    "iconName": "LiCommand",
+    "iconColor": "#f90101"
+  },
+  "Ingenieria de Datos 1/Conceptos Clave": {
+    "iconName": "LiNotebook",
+    "iconColor": "#fa0000"
+  },
+  "Organizacion": {
+    "iconName": "LiCalendar",
+    "iconColor": "#ea8b06"
+  },
+  "Programacion 2": {
+    "iconName": "LiCoffee",
+    "iconColor": "#ffc800"
+  },
+  "Programacion 2/Archivos": {
+    "iconName": "LiArchive",
+    "iconColor": "#ffbb00"
+  },
+  "Programacion 2/Clases": {
+    "iconName": "LiBook",
+    "iconColor": "#ebb800"
+  },
+  "TIF": {
+    "iconName": "LiGoal",
+    "iconColor": "#e49ac2"
+  },
+  "Programacion 2/Conceptos Clave": {
+    "iconName": "LiNotebook",
+    "iconColor": "#d6b84c"
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "69d1f7bc3f38101d",
+    "type": "split",
+    "children": [
+      {
+        "id": "82b685899769d106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1735e89c1f407541",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Programacion 2/Archivos/Ejerciciones integradores.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Ejerciciones integradores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdfaafd1eb28d6a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d88e2bb15d74c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f4cd3148acca34b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "aaaac1958240ed3d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"TIF/Proyectos/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "934415fc135aef4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0d12febdc537ae04",
+    "type": "split",
+    "children": [
+      {
+        "id": "18e416501282064e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54cfbf5ac7eb337b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ingenieria de Datos 1/Clases/15614_3.4.209_INGENIER#U00cdA DE DATOS I_2026C1_Martes_NOCHE_Fernandez Alfonso Martin.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 15614_3.4.209_INGENIER#U00cdA DE DATOS I_2026C1_Martes_NOCHE_Fernandez Alfonso Martin"
+            }
+          },
+          {
+            "id": "eaa8d05e8c6bb745",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bienvenido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bienvenido"
+            }
+          },
+          {
+            "id": "4114242aeaee06cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "70781eb22c630c28",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "d67d59396b1acea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          },
+          {
+            "id": "1d16043d6de0a22a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ingenieria de Datos 1/Archivos/IDD I_Clase05_AFB.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "IDD I_Clase05_AFB"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "1735e89c1f407541",
+  "lastOpenFiles": [
+    "Programacion 2/Clases/Clase 2 - Introducción a Java.md",
+    "Programacion 2/Archivos/Ejerciciones integradores.pdf",
+    "Programacion 2/Clases/0 - Información de Cursada.md",
+    "Programacion 2/Archivos/Jueves TT.pdf",
+    "Programacion 2/Archivos/Conceptos_Fundamentales_de_Orientacion_a_Objetos.pdf",
+    "Programacion 2/Clases/Clase 1.md",
+    "Programacion 2/Reglas de clase.md",
+    "Programacion 2/Temas a ver en la materia.md",
+    "Programacion 2/Conceptos Clave/Ocultamiento.md",
+    "Programacion 2/Conceptos Clave/Encapsulamiento.md",
+    "Programacion 2/Conceptos Clave/Abstracción.md",
+    "Programacion 2/Conceptos Clave/Objeto.md",
+    "CC_Tipos de Datos.md",
+    "CC_Clases.md",
+    "Programacion 2/Conceptos Clave/Pasaje por Valor y Referencia.md",
+    "Programacion 2/Conceptos Clave/Clases.md",
+    "Programacion 2/Conceptos Clave/Métodos.md",
+    "Programacion 2/Conceptos Clave/Arreglos.md",
+    "Programacion 2/Conceptos Clave/Estructuras de Control.md",
+    "Ingenieria de Datos 1/Clases/Clase 10 - SQL Dinamico.md",
+    "Programacion 2/Conceptos Clave/Operadores.md",
+    "Programacion 2/Conceptos Clave/Variables.md",
+    "Programacion 2/Conceptos Clave/Tipos de Datos.md",
+    "Programacion 2/Conceptos Clave",
+    "Ingenieria de Datos 1/Conceptos Clave/CC_Cursores.md",
+    "TIF/Clases/Clase 01 - Presentación y MVP.md",
+    "Aplicaciones Moviles/Clases/Clase 02 - Android Primeros Pasos.md",
+    "Aplicaciones Moviles/Clases/Clase 01 - Presentación de la materia.md",
+    "Aplicaciones Moviles/Archivos/Clase 1 - Presentacion de la materia.pdf",
+    "Ingenieria de Datos 1/Conceptos Clave/Operadores/Producto_Cartesiano.md",
+    "Aplicaciones Moviles/Archivos/Android - Primeros pasos.pdf",
+    "Aplicaciones Moviles/Archivos",
+    "Aplicaciones Moviles/Clases 2",
+    "TIF/Proyectos",
+    "TIF/Archivos/Clase 01_Presentación_MVP.pdf",
+    "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260418184136.png",
+    "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260418173401.png",
+    "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260416200037.png",
+    "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260416193854.png",
+    "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260409185511.png",
+    "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260331200706.png",
+    "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260310210825.png",
+    "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260310210801.png",
+    "Ingenieria de Datos 1 (2)/Archivos/Hotel.jpg",
+    "Ingenieria de Datos 1 (2)/Archivos/DER Auto.jpg",
+    "Sin título 1.canvas",
+    "Sin título.canvas"
+  ]
+}
