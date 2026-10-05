@@ -29,7 +29,7 @@ aliases: [Metodologías Ágiles, Agile, Scrum]
 - Cada sprint suma una parte validada del producto
 
 ## Relacionado
-
 - [[MVP]]
 - [[Design_Thinking]]
+- [[Ecuacion_Alto_Desempeno]]
 - [[Clase 01 - Presentación y MVP]]

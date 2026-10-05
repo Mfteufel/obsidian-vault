@@ -1,0 +1,5 @@
+- **Datos reales vs. simulados** — ya está explícito y sin ambigüedad (secciones 4.2, 11.7): 100% simulado, ninguna información real de estudiantes. Si el comité lo pregunta es porque no llegó con esa claridad a la presentación, no porque falte definirlo.
+  
+- **Integración con sistemas institucionales** — también resuelto, y bastante bien (sección 11, fases 0 a 3 con YARP/SystemWebAdapters). Es la parte más sólida del documento.
+  
+- **Reglas académicas contempladas** — acá sí veo un hueco. El documento define reglas de _horario_ (sección 8.3: conflicto = día + turno, 1 materia = 1 bloque) y el motor de _correlatividades_ (sección 5.5), pero nunca dice explícitamente qué reglas académicas de UADE están modeladas y cuáles no: ¿contempla condición de regularidad, cupos máximos por cuatrimestre, incompatibilidad de finales, requisitos de porcentaje de la carrera aprobado, etc.? El comité probablemente está pidiendo esa lista explícita, no una reafirmación de que "hay un motor de correlativas".

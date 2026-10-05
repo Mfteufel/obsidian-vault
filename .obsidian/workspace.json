@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82b685899769d106",
+        "id": "db8627573b99ff7a",
         "type": "tabs",
         "children": [
           {
-            "id": "1735e89c1f407541",
+            "id": "81a8789a2489bcde",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Programacion 2/Archivos/Ejerciciones integradores.pdf"
+                "file": "Proyectos Personales/MT/Idea 2/02 - Planes de mantenimiento.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Ejerciciones integradores"
+              "icon": "lucide-file",
+              "title": "02 - Planes de mantenimiento"
             }
           }
         ]
@@ -196,43 +198,45 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1735e89c1f407541",
+  "active": "81a8789a2489bcde",
   "lastOpenFiles": [
-    "Programacion 2/Clases/Clase 2 - Introducción a Java.md",
-    "Programacion 2/Archivos/Ejerciciones integradores.pdf",
-    "Programacion 2/Clases/0 - Información de Cursada.md",
-    "Programacion 2/Archivos/Jueves TT.pdf",
-    "Programacion 2/Archivos/Conceptos_Fundamentales_de_Orientacion_a_Objetos.pdf",
-    "Programacion 2/Clases/Clase 1.md",
-    "Programacion 2/Reglas de clase.md",
-    "Programacion 2/Temas a ver en la materia.md",
-    "Programacion 2/Conceptos Clave/Ocultamiento.md",
-    "Programacion 2/Conceptos Clave/Encapsulamiento.md",
-    "Programacion 2/Conceptos Clave/Abstracción.md",
-    "Programacion 2/Conceptos Clave/Objeto.md",
-    "CC_Tipos de Datos.md",
-    "CC_Clases.md",
-    "Programacion 2/Conceptos Clave/Pasaje por Valor y Referencia.md",
-    "Programacion 2/Conceptos Clave/Clases.md",
-    "Programacion 2/Conceptos Clave/Métodos.md",
-    "Programacion 2/Conceptos Clave/Arreglos.md",
-    "Programacion 2/Conceptos Clave/Estructuras de Control.md",
-    "Ingenieria de Datos 1/Clases/Clase 10 - SQL Dinamico.md",
-    "Programacion 2/Conceptos Clave/Operadores.md",
-    "Programacion 2/Conceptos Clave/Variables.md",
-    "Programacion 2/Conceptos Clave/Tipos de Datos.md",
-    "Programacion 2/Conceptos Clave",
-    "Ingenieria de Datos 1/Conceptos Clave/CC_Cursores.md",
-    "TIF/Clases/Clase 01 - Presentación y MVP.md",
-    "Aplicaciones Moviles/Clases/Clase 02 - Android Primeros Pasos.md",
-    "Aplicaciones Moviles/Clases/Clase 01 - Presentación de la materia.md",
-    "Aplicaciones Moviles/Archivos/Clase 1 - Presentacion de la materia.pdf",
-    "Ingenieria de Datos 1/Conceptos Clave/Operadores/Producto_Cartesiano.md",
+    "2026-08-28.md",
+    "Proyectos Personales/MT/Idea 2/02 - Planes de mantenimiento.md",
+    "Proyectos Personales/MT/Idea 2/00 - Resumen Idea 2.md",
+    "Proyectos Personales/MT/Idea 2/03 - Botón de emergencia y guardias.md",
+    "Proyectos Personales/MT/Idea 2/01 - Modelo de negocio.md",
+    "Aplicaciones Moviles/Clases/React Native/Clase 07 - React Native y Expo.md",
+    "ReactNative_Intro.pdf",
+    "Aplicaciones Moviles/Conceptos clave/Expo.md",
+    "Aplicaciones Moviles/Conceptos clave/React Native.md",
+    "Aplicaciones Moviles/Conceptos clave/React Hooks.md",
+    "Aplicaciones Moviles/Conceptos clave/React.md",
+    "Aplicaciones Moviles/Clases/React Native/Clase 07.md",
+    "Aplicaciones Moviles/Clases/React Native/Clase 07 - Que es React.md",
+    "Proyectos Personales/MT/Servidores",
+    "Proyectos Personales/MT/Idea 2/04 - Pendientes.md",
+    "Proyectos Personales/MT/Idea 2",
+    "Aplicaciones Moviles/Clases/Android/Clase 01 - Presentación de la materia.md",
+    "Aplicaciones Moviles/Clases/Android/Clase 02 - Android Primeros Pasos.md",
+    "Aplicaciones Moviles/Preguntas TPO/Preguntas del segundo TP.md",
+    "Aplicaciones Moviles/Preguntas TPO/Preguntas tipicas.md",
+    "Aplicaciones Moviles/Clases/Android/TP/Ronda.md",
+    "Aplicaciones Moviles/Clases/Android/TP/TPO - Ronda.md",
+    "Aplicaciones Moviles/Archivos/TPO_Ronda_Android.pdf",
     "Aplicaciones Moviles/Archivos/Android - Primeros pasos.pdf",
-    "Aplicaciones Moviles/Archivos",
-    "Aplicaciones Moviles/Clases 2",
-    "TIF/Proyectos",
-    "TIF/Archivos/Clase 01_Presentación_MVP.pdf",
+    "Aplicaciones Moviles/Clases/Android/Clase 06 - Biometría y Seguridad en el Dispositivo.md",
+    "Aplicaciones Moviles/Archivos/TPO_Ronda_Android.pdf",
+    "Aplicaciones Moviles/Conceptos clave/Autenticación Biométrica.md",
+    "Aplicaciones Moviles/Conceptos clave/ActivityResultLauncher.md",
+    "Aplicaciones Moviles/Conceptos clave/Inyección de Dependencias (DI).md",
+    "Aplicaciones Moviles/Clases/Android/Clase 04 - Inyección de Dependencias y Storage.md",
+    "Aplicaciones Moviles/Conceptos clave/Aplicaciones Nativas.md",
+    "Aplicaciones Moviles/Clases/React Native",
+    "Proyectos Personales/ParkLoop/Problemas a resolver.md",
+    "Aplicaciones Moviles/Clases/Android",
+    "Proyectos Personales/ParkLoop/Reglas de negocio",
+    "Proyectos Personales/ParkLoop/Base de datos",
+    "Sin título.canvas",
     "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260418184136.png",
     "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260418173401.png",
     "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260416200037.png",
@@ -243,7 +247,6 @@
     "Ingenieria de Datos 1 (2)/Archivos/Pasted image 20260310210801.png",
     "Ingenieria de Datos 1 (2)/Archivos/Hotel.jpg",
     "Ingenieria de Datos 1 (2)/Archivos/DER Auto.jpg",
-    "Sin título 1.canvas",
-    "Sin título.canvas"
+    "Sin título 1.canvas"
   ]
 }

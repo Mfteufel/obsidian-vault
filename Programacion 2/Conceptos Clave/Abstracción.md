@@ -46,6 +46,9 @@ La misma entidad se abstrae distinto según para qué:
 ## Relacionado
 
 - [[Clase 2 - Introducción a Java]]
+- [[Clase 3 - Tipos de Datos Abstractos]]
 - [[Objeto]]
 - [[Clases]]
 - [[Encapsulamiento]]
+- [[TDA]]
+- [[Niveles de Abstracción]]

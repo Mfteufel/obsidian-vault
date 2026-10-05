@@ -46,7 +46,15 @@ Encuestas · Entrevistas · Observación · Reviews · Focus Group · Analytics 
 ---
 
 ## Relacionado
-
 - [[Design_Thinking]]
 - [[Metodologias_Agiles]]
+- [[Problema]]
+- [[JTBD]]
+- [[Claves_Robbins_Oratoria]]
+- [[Roadmap_y_Releases]]
+- [[Estrategia_Oceano_Azul]]
+- [[Segmentacion_de_Usuarios]]
 - [[Clase 01 - Presentación y MVP]]
+- [[Clase 02 - Problem Challenge]]
+- [[Clase 04 - Taller de Oratoria y Pitch Deck]]
+- [[Clase 05 - Ideación y Océano Azul]]

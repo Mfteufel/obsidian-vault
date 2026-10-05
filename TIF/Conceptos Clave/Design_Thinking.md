@@ -20,6 +20,11 @@ aliases: [Design Thinking, Pensamiento de Diseño]
 En la materia esto se agrupa en 3 grandes fases: **Research → Ideación → Prototipo**.
 
 ## Por qué importa para el MVP
+## User Research
+
+- Es la **herramienta clave** para conocer al usuario y tomar decisiones con evidencia real
+- Es la base de la etapa **Empatizar**: sin research, esa etapa se hace a ciegas
+
 
 - El [[MVP]] nace de este proceso: no se construye a ciegas
 - Sin research previo, el riesgo es resolver un problema que no existe
