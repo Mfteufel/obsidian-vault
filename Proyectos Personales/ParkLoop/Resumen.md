@@ -1,7 +1,7 @@
 ---
 tags: [parkloop, resumen]
 estado: MVP en planificación
-actualizado: 2026-09-27
+actualizado: 2026-11-06
 ---
 
 # ParkLoop — Resumen
@@ -71,6 +71,9 @@ Detalle en [[Reglas de negocio/RN - Índice|Reglas de negocio]].
 - [[RN - Compatibilidad de vehículo]]
 - [[RN - Fallas de torre]]
 
+### 💰 Finanzas
+- [[Finanzas - Resumen]] — análisis económico: inversión, escenarios, planes e inversores
+
 ### 🤖 Otros
 - [[Promt]] — prompt inicial para Claude Code
 
@@ -80,6 +83,7 @@ Detalle en [[Reglas de negocio/RN - Índice|Reglas de negocio]].
 - ✅ Prototipo HTML/JS navegable (5 tabs, onboarding, panel demo).
 - ✅ Stack decidido.
 - ⏳ Arrancar el MVP en código.
+- ⏳ Análisis económico en curso (ver [[Finanzas - Resumen]]).
 
 ## Fuera de alcance por ahora
 

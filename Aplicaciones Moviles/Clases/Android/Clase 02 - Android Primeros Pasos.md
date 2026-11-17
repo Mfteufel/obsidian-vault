@@ -28,14 +28,14 @@ tags: [clase, android, activity, intents, gradle, desarrollo-aplicaciones-1]
 
 ### Dentro de `app/`
 
-| Carpeta | Para qué sirve |
-|---|---|
+| Carpeta           | Para qué sirve                                          |
+| ----------------- | ------------------------------------------------------- |
 | `java/com.tuapp/` | Clases principales: `MainActivity.java`, modelos, utils |
-| `res/drawable/` | Imágenes y gráficos vectoriales |
-| `res/layout/` | XML que definen la interfaz |
-| `res/values/` | Colores, estilos, strings |
-| `res/mipmap/` | Íconos de la app en varias resoluciones |
-| `res/xml/` | Configuraciones avanzadas (preferencias, seguridad) |
+| `res/drawable/`   | Imágenes y gráficos vectoriales                         |
+| `res/layout/`     | XML que definen la interfaz                             |
+| `res/values/`     | Colores, estilos, strings                               |
+| `res/mipmap/`     | Íconos de la app en varias resoluciones                 |
+| `res/xml/`        | Configuraciones avanzadas (preferencias, seguridad)     |
 
 ---
 

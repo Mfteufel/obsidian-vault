@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Plan de estudio oral TPO Ronda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Estudio oral TPO Ronda
+BEGIN:VEVENT
+UID:estudio-20261113@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Estudio: Punto 5 - entender el recorrido
+DESCRIPTION:Bloque 1: leer secciones 1 y 2 del repaso del Punto 5 y dibujar los 5 pasos de memoria.\nBloque 2: leer flujo A-C y abrir PublicarPasoFragment y PublicarArticuloViewModel.\nExplicar en voz alta: como se comparte el estado entre los 5 pasos.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261116@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Estudio: Punto 5 - Fragments, Navigation, ViewModel, LiveData
+DESCRIPTION:Bloque 1: notas Fragment y Navigation Component + ViewModel compartido + nav_graph_publicar.xml.\nBloque 2: LiveData + flujo B y C + saltarAlPasoGuardadoSiCorresponde().\nExplicar: por que el scope del ViewModel es el grafo.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261117@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Estudio: Punto 5 - Room e hilos
+DESCRIPTION:Bloque 1: nota Room + Entity, DAO, Converters.\nBloque 2: Executor + Handler + patron Repository + BorradorRepositoryLocal.\nExplicar: por que una sola fila y por que Executor y Handler.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261118@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Estudio: Punto 5 - fotos, permisos, Retrofit multipart, Hilt
+DESCRIPTION:Bloque 1: ActivityResultLauncher, permisos, Uri y ContentResolver en PublicarFotosFragment.\nBloque 2: Retrofit multipart, Hilt y EntryPoint + flujo D y E.\nExplicar: para que takePersistableUriPermission y por que @EntryPoint.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261119@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Estudio: Punto 5 - Mis publicaciones + defensa
+DESCRIPTION:Bloque 1: RecyclerView + flujo F + MisPublicacionesFragment y MiPublicacionAdapter.\nBloque 2: preguntas de defensa en voz alta (seccion 5) y cosas raras (seccion 6).\nPendiente con el equipo: direccion texto libre vs coordenadas, y MisPublicacionesRepositoryLocal.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261120@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Estudio: REPASO COMPLETO Punto 5
+DESCRIPTION:Bloque 1: contar el Punto 5 de memoria (5 min) y releer lo que falle.\nBloque 2: recorrer los 6 archivos clave en orden y responder 5 preguntas de defensa al azar.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261123@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Estudio: Punto 7 - entender el recorrido
+DESCRIPTION:Bloque 1: secciones 1 y 2 del repaso del Punto 7 + docs/ofertas-api.md. Memorizar 4 estados, 2 turnos, 6 h.\nBloque 2: flujo A-C + OfertasRepository y OfertasApi.\nExplicar: que pasa desde que ofertas hasta que aparece en Mis ofertas.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261124@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Estudio: Punto 7 - respuestas, vencimiento y capa de datos
+DESCRIPTION:Bloque 1: flujo D-F + meTocaResponder. Explicar quien puede aceptar, rechazar o contraofertar y como vence sin cron.\nBloque 2: Repository, Retrofit, Callback, DTO vs modelo, Hilt + OfertasRepositoryRemoto y RepositoryModule.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261125@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Estudio: Punto 7 - pantallas y componentes
+DESCRIPTION:Bloque 1: MisOfertasFragment, generacionConsulta, TabLayout, OfertaAdapter.\nBloque 2: DetalleOfertaBottomSheet, Fragment Result API, dialogos Material.\nExplicar: como se mantienen siempre actualizadas y por que la direccion solo se ve si esta aceptada.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261126@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Estudio: Punto 7 - backend + defensa
+DESCRIPTION:Bloque 1: backend/routers/ofertas.py completo y database.py (vencer_ofertas, aceptar_oferta, contraofertar).\nBloque 2: preguntas de defensa en voz alta y cosas raras.\nPendiente con el equipo: botones cuando no te toca, regla del 50 por ciento solo en la app.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261127@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Estudio: REPASO COMPLETO Punto 7
+DESCRIPTION:Bloque 1: contar el Punto 7 de memoria (5 min) y releer lo que falle.\nBloque 2: recorrer los 6 archivos clave en orden y responder 5 preguntas de defensa al azar.
+END:VEVENT
+BEGIN:VEVENT
+UID:estudio-20261130@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Estudio: SIMULACRO GENERAL
+DESCRIPTION:Bloque 1: 10 preguntas al azar de ambos puntos, en voz alta, 1 min cada una.\nBloque 2: releer lo dudoso y las cosas raras.\nDejar todo listo: proyecto abierto, rama main actualizada, emulador funcionando. No estudiar nada nuevo a la noche.
+END:VEVENT
+BEGIN:VEVENT
+UID:oral-20261201@tpo-ronda
+DTSTAMP:20261113T120000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:ORAL TPO Ronda
+DESCRIPTION:15 min a la manana: seccion 1 y flujo de cada punto + las 5 cosas raras del indice. Repo abierto y emulador listo.
+END:VEVENT
+END:VCALENDAR

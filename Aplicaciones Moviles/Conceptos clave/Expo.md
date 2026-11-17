@@ -11,7 +11,7 @@ aliases: [Expo, Expo Go, Expo SDK, EAS, Development Build, Metro]
 
 | Pieza | Qué ofrece |
 |---|---|
-| **Expo SDK** | +100 librerías listas para producción: cámara, GPS, notificaciones push, biometría, deep links y más, sin configuración extra |
+| **Expo SDK** | +100 librerías listas para producción: cámara, GPS, notificaciones push, biometría, deep links y más, sin configuración extra — ej: [[Biometría en React Native]], [[expo-image-picker]] |
 | **Developer Experience** | Expo Go para probar en el celular al instante, Expo Orbit para lanzar emuladores sin abrir Android Studio, hot reload incluido |
 | **EAS** (Expo App Services) | Build, Submit, Update — compila en la nube, manda a los stores y envía actualizaciones OTA sin pasar por revisión |
 | **Respaldo de Meta** | El único framework nativo oficial recomendado por Meta para React Native. 10 años de desarrollo, 3M+ usuarios, 40K+ stars en GitHub |
@@ -50,8 +50,11 @@ Dos herramientas distintas para **distintos momentos** del proyecto.
 | Librerías nativas | Solo las **incluidas en Expo Go** | **Cualquiera** |
 | Agregar código nativo custom | ❌ No | ✅ Sí |
 | Cambiar ícono, splash, nombre | ❌ No | ✅ Sí |
+| Aplica `app.json` (plugins, permisos) | ❌ Se ignora | ✅ Se aplica |
 
 > **Regla práctica:** empezar con Expo Go mientras el proyecto solo usa librerías estándar. Migrar a Development Build en cuanto se necesite una librería nativa que Expo Go no trae, o personalizar ícono/nombre.
+
+> Cómo crearlo, qué hace `npx expo run:android` y cuándo recompilar: [[Development Build]]. Por qué Expo Go ignora la configuración nativa: [[app.json y Config Plugins]].
 
 ---
 
@@ -85,7 +88,8 @@ Example/
 | `npx expo start` | Levanta Metro y muestra el QR para Expo Go |
 | `npx expo start --android` | Abre directamente en un emulador Android |
 | `npx expo install <pkg>` | Instala librerías **compatibles con la versión del SDK** del proyecto (mejor que `npm install` a secas) |
-| `npx expo run:android` | Compila y corre como **Development Build** en Android |
+| `npx expo run:android` | Compila y corre como **Development Build** en Android — ver [[Development Build#Crear un Development Build en local]] |
+| `npx expo prebuild --clean` | Regenera las carpetas nativas `android/` e `ios/` — ver [[app.json y Config Plugins#Config plugins — app.json modifica el código nativo]] |
 
 > ⚠️ Usar `npx expo install` en vez de `npm install` para librerías del ecosistema Expo — evita incompatibilidades de versión entre el SDK y la librería.
 
@@ -97,7 +101,7 @@ La **segunda entrega** del TPO ("Ronda") es en **React Native con Expo (Android)
 
 1. `npx create-expo-app` para arrancar el proyecto
 2. Desarrollar y probar con **Expo Go** mientras alcance
-3. Si se necesita algo nativo específico (ej: notificaciones push avanzadas), migrar a **Development Build**
+3. Si se necesita algo nativo específico (ej: [[expo-image-picker]] con permisos configurados, notificaciones push avanzadas), migrar a **[[Development Build]]**
 4. Usar **EAS Build** para generar el `.apk`/`.aab` final de la entrega
 
 ---
@@ -105,6 +109,10 @@ La **segunda entrega** del TPO ("Ronda") es en **React Native con Expo (Android)
 ## Relacionado
 
 - [[Clase 07 - React Native y Expo]]
+- [[Clase 10 - Development Build y expo-image-picker]]
 - [[React Native]]
+- [[Development Build]]
+- [[app.json y Config Plugins]]
+- [[expo-image-picker]]
 - [[React]]
 - [[React Hooks]]

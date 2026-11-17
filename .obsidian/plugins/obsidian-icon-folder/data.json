@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBuilding2",
+      "LiSearch",
       "LiCar",
       "🐧",
-      "LiServer",
-      "🔨",
-      "LiNotebook"
+      "LiServer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -100,5 +100,13 @@
   "Proyectos Personales/ParkLoop": {
     "iconName": "LiCar",
     "iconColor": "#0befeb"
+  },
+  "Proyectos Personales/Fernanda Activos": {
+    "iconName": "LiBuilding2",
+    "iconColor": "#ab303d"
+  },
+  "Aplicaciones Moviles/Hallados": {
+    "iconName": "LiSearch",
+    "iconColor": "#ca04f1"
   }
 }
